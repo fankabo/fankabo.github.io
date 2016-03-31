@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Noticia+Text|Merriweather+Sans);
+body {
+	text-align: center;
+	background: "images/MonkeyOnTree.jpeg";
+	background-size: cover;
+	color: white
+	font-family: 'Noticia Text', serif;
+}
+
+h1 {
+	color: rgb(127,0,0);
+	font-size: 60px;
+	font-family: 'Noticia Text', serif;
+}
+
+#slogan {
+	color: rgb(255,33,0);
+	font-size: 40px;
+	font-style: italic; 
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+p, li{
+	color: rgb(127,0,0);
+	font-size: 22px;
+	font-family: 'Noticia Text', sans-serif;
+}
+
+hr {
+	width: 400px;
+}
+
+li {
+	text-align: left;
+}
